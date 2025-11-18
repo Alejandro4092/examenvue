@@ -6,7 +6,7 @@
 
 <script>
 export default {
-name: "PedidoComponent"
+name: "pedidoComponent"
 }
 </script>
 

@@ -1,10 +1,10 @@
 import { createWebHistory, createRouter } from "vue-router";
-import HomeComponent from "./components/HomeComponent.vue";
-import MarcaComponent from "./components/MarcaComponent.vue";
-import LoginComponent from "./components/LoginComponent.vue";
-import PerfilComponent from "./components/PerfilComponent.vue";
-import ComprasComponent from "./components/ComprasComponent.vue";
-import PedidoComponent from "./components/PedidoComponent.vue";
+import HomeComponent from "./components/homeComponent.vue";
+import MarcaComponent from "./components/marcaComponent.vue";
+import LoginComponent from "./components/loginComponent.vue";
+import PerfilComponent from "./components/perfilComponent.vue";
+import ComprasComponent from "./components/comprasComponent.vue";
+import PedidoComponent from "./components/pedidoComponent.vue";
 
 
 const myRoutes = [
