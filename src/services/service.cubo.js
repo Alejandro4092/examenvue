@@ -12,9 +12,7 @@ export default class ServiceCubo {
             axios.get(url).then(response=>resolve(response.data));
         }
         );
-
     }
-
     getCubos(){
     return new Promise(resolve => {
         let request="api/cubos";
